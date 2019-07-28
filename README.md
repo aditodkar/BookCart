@@ -20,3 +20,5 @@ npm test
 # Screenshots:
 
 ![Screenshot_100](https://user-images.githubusercontent.com/16613832/62007898-9671ba80-b170-11e9-8067-d3c4233df32d.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/16613832/62010554-f9238000-b189-11e9-9b9e-928fe3fa37dc.png)
