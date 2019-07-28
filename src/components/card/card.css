@@ -1,0 +1,10 @@
+.card {
+    margin-top: 25px;
+    margin-left: 45px;
+    max-height: 275px;
+    width: 400px;
+}
+
+.author, .rating {
+    margin-top: 15px;
+}

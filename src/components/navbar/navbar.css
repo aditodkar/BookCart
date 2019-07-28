@@ -1,0 +1,17 @@
+.navbar-brand {
+    font-weight: bold;
+}
+
+.items, .productPrice {
+    font-size: 16px;
+    margin-right: 10px;
+    padding-top: 4px;
+    font-weight: bold;
+    color: white;
+}
+
+.fa-shopping-cart {
+    font-size: 26px;
+    padding: 5px;
+    color: white;
+}
